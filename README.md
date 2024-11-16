@@ -22,7 +22,7 @@ Validates input coefficients
 Handles edge cases (a = 0, undefined solutions)
 
 Installation
-bashCopygit clone https://github.com/yourusername/quadratic-solver.git
+bashCopygit clone https://github.com/Joebaho/TF-DK-quadratic-solver.git
 cd quadratic-solver
 pip install -r requirements.txt
 Usage
